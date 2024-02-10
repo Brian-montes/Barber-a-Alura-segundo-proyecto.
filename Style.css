@@ -1,0 +1,46 @@
+header{
+    text-align: center;
+}
+body{
+    background-color: #cccccc;
+}
+.Principal{
+    background: #cccccc;
+    padding: 20px;
+}
+#Descripcion{
+    text-align: center;
+ }
+
+#Misión{
+    text-align: center;
+ }
+#imgBanner{
+    width: 100%;
+}
+#BarberiaRed{
+    color: red;
+}
+#MisionRed{
+    color: red;
+}
+#Servicios{
+    text-align: center;
+}
+.items{
+    font-size: italic;
+}
+.Diferenciales{
+    
+    background: #ffffff;
+    padding: 30px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagenDiferenciales{
+    width: 50%;
+}
